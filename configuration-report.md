@@ -1,5 +1,6 @@
 Cisco Packet Tracer - Build a Simple Network
 
+![Network Architecture](Assets/Architecture.png)
 
 For this project :
 
@@ -38,7 +39,13 @@ PC 3 : 192.168.1.12 255.255.255.0 - 192.168.1.1 as Gateway
 
 Then I tested the connections by pinging each hosts :
 
--- PUT PING SCREENSHOTS -- 
+![Pings](Assets/pings.png)
+
+![Robert's pings](Assets/pings-robert.png)
+
+![Camille's pings](Assets/pings-camille.png)
+
+![Renaud's pings](Assets/pings-renaud.png)
 
 All pings succeeded ! 
 
@@ -97,7 +104,9 @@ ip route 192.168.1.0 255.255.255.0 192.168.0.2
 
 Now I can verify that Hacker's Poulette's network is connected to the internet by accessing the site www.google.com on any of their PC, and voilà.
 
+![Googling](Assets/google.png)
 
+![Google page](Assets/google-page.png)
 
 
 
